@@ -1,0 +1,10 @@
+body{
+	background-color: #C6D9F1;
+}
+
+
+td img.ng-scope{
+	width: 50px !important;
+	height: 50px !important;
+	margin: 2px !important;
+}
